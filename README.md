@@ -36,5 +36,5 @@ A principai funcionalidade da aplicação é:
  - Conversor de moedas
 
 ## Links
-  - Repositório: (https://github.com/AbdiasFarias/Conversor-de-Moedas)
+  - Repositório: https://github.com/AbdiasFarias/Conversor-de-Moedas
     
